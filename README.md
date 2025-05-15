@@ -31,7 +31,3 @@
 </div>
 
 ###
-
-<div class="tenor-gif-embed" data-postid="4591493253734534270" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%", align="center"><a href="https://tenor.com/view/wink-anime-anime-wink-peace-peace-sign-gif-4591493253734534270">Wink Anime GIF</a>from <a href="https://tenor.com/search/wink-gifs">Wink GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-###
